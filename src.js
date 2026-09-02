@@ -1,5 +1,5 @@
 
-const birthday = new Date("2009-04-21");
+const birthday = new Date("2009-04-20");
 
 function updateAge() {
     const today = new Date();
