@@ -1,7 +1,7 @@
 # my-personal-site
 Hi! This is my personal site that I made for Hack Club Stardance.
 
-I made this using HTML and CSS and it's very very creative and I worked very very hard to make this.
+I made this using HTML, CSS, and Javascript.
 
 <img width="756" height="374" alt="image" src="https://github.com/user-attachments/assets/2588d11e-98d6-45ea-b064-335c59870b03" />
 <img width="756" height="374" alt="image" src="https://github.com/user-attachments/assets/b8753920-48f9-4209-ba7a-530e48f6b949" />
